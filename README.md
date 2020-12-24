@@ -8,8 +8,8 @@
 ---
 ## Code and Resources used
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-For Web Framework Requirements: ```pip install -r requirements.txt```  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
+**For Web Framework Requirements:** ```pip install -r requirements.txt```  
 **Dataset:** [Download from here](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)  
 
 ---
